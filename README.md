@@ -1,6 +1,6 @@
 ```text
 everardo@torres:~$ ./hack --target github-profile
-[ok] cargando field manual · vol. 04 / 2026 …
+[ok] loading field manual · vol. 04 / 2026 …
 
  _____                          _         _____
 | ____|_   _____ _ __ __ _ _ __| | ___   |_   _|__  _ __ _ __ ___  ___
@@ -9,19 +9,19 @@ everardo@torres:~$ ./hack --target github-profile
 |_____| \_/ \___|_|  \__,_|_|  |_|\___/    |_|\___/|_|  |_|  \___||___/
 
 [ok] identity ... full-stack developer · zapopan, mx
-[ok] uptime .... 3+ años en producción
+[ok] uptime .... 3+ years in production
 [!!] warning ... message brokers ❤
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+builder+de+SaaS+%2B+IoT;%22mongo%2C+no+SQL%22+%E2%80%94+yo%2C+probablemente;message+brokers+%E2%9D%A4+%C2%B7+colas+profundas;son+carreras%2C+no+carreritas." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=44&lines=%24+whoami+%E2%86%92+SaaS+%2B+IoT+builder;%22mongo%2C+no+SQL%22+%E2%80%94+me%2C+probably;message+brokers+%E2%9D%A4+%C2%B7+deep+queues;son+carreras%2C+no+carreritas." alt="typing" />
 
 <img src="https://img.shields.io/badge/STATUS-SHIPPING-00ff41?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CAFE-CARGADO-ff2b2b?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/COFFEE-STRONG-ff2b2b?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MODE-BUILD--IN--PUBLIC-c9d1d9?style=flat-square&labelColor=0d1117" />
 
-**FECHA** 2026.07 · **LUGAR** Zapopan, MX 🇲🇽 · **CLIMA** nublado · café cargado ☕
+**DATE** 2026.07 · **BASE** Zapopan, MX 🇲🇽 · **WEATHER** cloudy · strong coffee ☕
 
 <kbd><a href="https://everardotorres.com">main_site ↗</a></kbd> · <kbd><a href="https://eversuelo.github.io">lab ↗</a></kbd> · <kbd><a href="https://eversuelo.github.io/build/everardo_torres_cv_en.pdf">cv_en</a></kbd> · <kbd><a href="https://eversuelo.github.io/build/everardo_torres_cv_es.pdf">cv_es</a></kbd> · <kbd><a href="https://linkedin.com/in/everardotorres">linkedin</a></kbd>
 
@@ -32,26 +32,26 @@ everardo@torres:~$ ./hack --target github-profile
 ```
 
 > [!WARNING]
-> Este perfil contiene exceso de colas, aggregation pipelines y opiniones fuertes sobre bases de datos. Proceder bajo su propio riesgo.
+> This profile contains excessive queues, aggregation pipelines and strong opinions about databases. Proceed at your own risk.
 
 <br>
 
 ### `§1 :: $ cat about.md`
 
 ```text
-✦ FICHA ────────────────────────────────────────────
+✦ ID CARD ──────────────────────────────────────────
  name    José Everardo Torres Orozco
  role    Full-Stack Developer · 3+ yrs
- now     Customs City + freelance + tesis '26
- study   Ing. en Computación · UMSNH · jun '26
- langs   ES nativo · EN B2 → C1 loading…
- fuel    café cargado, obviamente
+ now     Customs City + freelance + thesis '26
+ study   Computer Engineering · UMSNH · Jun '26
+ langs   ES native · EN B2 → C1 loading…
+ fuel    strong coffee, obviously
 ────────────────────────────────────────────────────
 ```
 
-Ingeniero de software construyendo **plataformas SaaS B2B** y aplicaciones de negocio. Del lado de aplicación: **Node.js / TypeScript** con **Vue / React**. Del lado de integración: **MongoDB, PostgreSQL, Redis** y brokers de mensajes (**IBM MQ, RabbitMQ, MQTT**).
+Software engineer building **B2B SaaS platforms** and internal business apps. Application side: **Node.js / TypeScript** with **Vue / React**. Integration side: **MongoDB, PostgreSQL, Redis** and message brokers (**IBM MQ, RabbitMQ, MQTT**).
 
-He puesto en producción pipelines que mueven **CSV / XLSX / EDI** entre servicios, resuelto fallas de flujo de mensajes punta a punta, y roto (y arreglado) más de un deploy. Actualmente aprendiendo **C# / .NET**.
+I've shipped pipelines that move **CSV / XLSX / EDI** between services, debugged end-to-end message-flow failures, and broken (then fixed) more than one deploy. Currently learning **C# / .NET**.
 
 <br>
 
@@ -96,11 +96,11 @@ He puesto en producción pipelines que mueven **CSV / XLSX / EDI** entre servici
 ![Practices](https://img.shields.io/badge/Clean_Arch_·_DDD_·_TDD-0d1117?style=flat-square&logoColor=00ff41)
 
 ```text
-$ cat aprendiendo.txt   # no me alcanza el tiempo
-C# / .NET          ████░░░░░░  en curso
-Rust               ██░░░░░░░░  ownership duele, pero vale
-Kubernetes         ███░░░░░░░  más allá de docker
-Sistemas dist.     ███░░░░░░░  consistencia, colas, caches
+$ cat learning.txt   # never enough time
+C# / .NET          ████░░░░░░  in progress
+Rust               ██░░░░░░░░  ownership hurts, worth it
+Kubernetes         ███░░░░░░░  beyond docker
+Distributed sys.   ███░░░░░░░  consistency, queues, caches
 ```
 
 <br>
@@ -109,19 +109,19 @@ Sistemas dist.     ███░░░░░░░  consistencia, colas, caches
 
 ```text
 [2024-04 → now    ]  Customs City Platform · remote contractor (Toronto, CA)
-                     SaaS multi-tenant de gestión aduanal → filings ante CBP (US)
+                     Multi-tenant customs brokerage SaaS → CBP filings (US)
                      FeathersJS · MongoDB · Redis · IBM MQ · RabbitMQ
-                     > aggregation pipelines cross-collection para conciliación
-                     > file manager en browser: CSV/XLSX + Web Workers + validación
-                     > debug de message flows: sender channels, VPN, queue depth
+                     > cross-collection aggregation pipelines for reconciliation
+                     > in-browser file manager: CSV/XLSX + Web Workers + validation
+                     > message-flow debugging: sender channels, VPN, queue depth
 
 [2023-02 → 2024-02]  Best Reference · Morelia, MX
-                     Cotizaciones y gestión de proyectos · Laravel · Vue · MySQL
+                     Internal quoting & project management · Laravel · Vue · MySQL
 
-[2022    → now    ]  Freelance · México, remoto
-                     > SaaS escolar multi-tenant (iecp.mx) · Next.js + PostgreSQL
+[2022    → now    ]  Freelance · Mexico, remote
+                     > multi-tenant school SaaS (iecp.mx) · Next.js + PostgreSQL
                      > IoT/GPS tracking (GoalTime) · ESP32 + MQTT/EMQX + Docker Swarm
-                     > deploys en VPS: Traefik, Dokploy, GitHub Actions
+                     > VPS deployments: Traefik, Dokploy, GitHub Actions
 ```
 
 <br>
@@ -130,14 +130,14 @@ Sistemas dist.     ███░░░░░░░  consistencia, colas, caches
 
 ```text
 total 4 — // fetching repos…
-drwxr-xr-x  schoolar-iecp/        SaaS escolar multi-tenant · Next.js + PG    [LIVE → iecp.mx]
+drwxr-xr-x  schoolar-iecp/        multi-tenant school SaaS · Next.js + PG     [LIVE → iecp.mx]
 drwxr-xr-x  goaltime/             IoT GPS tracking · ESP32 + MQTT/EMQX        [WIP]
 drwxr-xr-x  everardotorres.com/   portfolio · Next.js + Payload CMS           [LIVE]
 drwx------  aitl-js/              [ACCESS DENIED] · thesis lab                [CLASSIFIED]
 ```
 
 > [!IMPORTANT]
-> **RECORDAR** — son carreras, no carreritas.
+> **REMEMBER** — *son carreras, no carreritas.* <sub>(play the long game.)</sub>
 
 <br>
 
@@ -151,7 +151,7 @@ drwx------  aitl-js/              [ACCESS DENIED] · thesis lab                [
 <img src="https://streak-stats.demolab.com/?user=eversuelo&hide_border=true&background=0d1117&ring=00ff41&fire=ff2b2b&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 <!--
-🐍 descomenta esta línea cuando actives el workflow snake.yml (instrucciones abajo):
+🐍 uncomment this line once the snake.yml workflow is set up (instructions in snake.yml):
 <img src="https://raw.githubusercontent.com/eversuelo/eversuelo/output/github-snake-dark.svg" alt="snake" />
 -->
 
@@ -173,9 +173,9 @@ drwx------  aitl-js/              [ACCESS DENIED] · thesis lab                [
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=eversuelo&style=flat-square&color=00ff41&label=intrusos+detectados" />
+<img src="https://komarev.com/ghpvc/?username=eversuelo&style=flat-square&color=00ff41&label=intruders+detected" />
 
-<sub>↑ los que llegan por primera vez reciben confeti — pero en el <a href="https://everardotorres.com">sitio principal</a>. aquí solo respeto.</sub>
+<sub>↑ first-time visitors get confetti — over at the <a href="https://everardotorres.com">main site</a>. here you just get respect.</sub>
 
 <br><br>
 
