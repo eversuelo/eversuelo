@@ -21,7 +21,7 @@ everardo@torres:~$ ./hack --target github-profile
 <img src="https://img.shields.io/badge/COFFEE-STRONG-ff2b2b?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MODE-BUILD--IN--PUBLIC-c9d1d9?style=flat-square&labelColor=0d1117" />
 
-**DATE** 2026.07 · **BASE** Zapopan, MX 🇲🇽 · **WEATHER** cloudy · strong coffee ☕
+**DATE** 2026.09 · **BASE** Zapopan, MX 🇲🇽 · **WEATHER** cloudy · strong coffee ☕
 
 <kbd><a href="https://everardotorres.com">main_site ↗</a></kbd> · <kbd><a href="https://eversuelo.github.io">lab ↗</a></kbd> · <kbd><a href="https://eversuelo.github.io/build/everardo_torres_cv_en.pdf">cv_en</a></kbd> · <kbd><a href="https://eversuelo.github.io/build/everardo_torres_cv_es.pdf">cv_es</a></kbd> · <kbd><a href="https://linkedin.com/in/everardotorres">linkedin</a></kbd>
 
@@ -38,20 +38,22 @@ everardo@torres:~$ ./hack --target github-profile
 
 ### `§1 :: $ cat about.md`
 
+<!-- profile-data:start:idcard -->
 ```text
 ✦ ID CARD ──────────────────────────────────────────
  name    José Everardo Torres Orozco
- role    Full-Stack Developer · 3+ yrs
- now     Customs City + freelance + thesis '26
- study   Computer Engineering · UMSNH · Jun '26
- langs   ES native · EN B2 → C1 loading…
+ role    Full Stack Developer (DevOps in training) · 3+ yrs
+ now     Customs City Platform + AtmosphereCraft + thesis
+ study   B.Sc. in Computer Engineering · UMSNH
+ langs   ES native · EN B2
  fuel    strong coffee, obviously
 ────────────────────────────────────────────────────
 ```
+<!-- profile-data:end:idcard -->
 
 Software engineer building **B2B SaaS platforms** and internal business apps. Application side: **Node.js / TypeScript** with **Vue / React**. Integration side: **MongoDB, PostgreSQL, Redis** and message brokers (**IBM MQ, RabbitMQ, MQTT**).
 
-I've shipped pipelines that move **CSV / XLSX / EDI** between services, debugged end-to-end message-flow failures, and broken (then fixed) more than one deploy. Currently learning **C# / .NET**.
+I've shipped pipelines that move **CSV / XLSX / EDI** between services, debugged end-to-end message-flow failures, and broken (then fixed) more than one deploy. Currently going deeper into **Java** and **AI agent tooling** (MCP, provider-agnostic adapters).
 
 <br>
 
@@ -70,7 +72,7 @@ I've shipped pipelines that move **CSV / XLSX / EDI** between services, debugged
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41)
-![.NET](https://img.shields.io/badge/C%23_/_.NET_(learning)-0d1117?style=flat-square&logo=dotnet&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff41)
 
 **// DATA & MESSAGING**
 
@@ -97,8 +99,8 @@ I've shipped pipelines that move **CSV / XLSX / EDI** between services, debugged
 
 ```text
 $ cat learning.txt   # never enough time
-C# / .NET          ████░░░░░░  in progress
-Rust               ██░░░░░░░░  ownership hurts, worth it
+Java               █████░░░░░  netty, concurrency
+AI agents / MCP    ███████░░░  thesis territory
 Kubernetes         ███░░░░░░░  beyond docker
 Distributed sys.   ███░░░░░░░  consistency, queues, caches
 ```
@@ -107,34 +109,41 @@ Distributed sys.   ███░░░░░░░  consistency, queues, caches
 
 ### `§3 :: $ tail -f experience.log`
 
+<!-- profile-data:start:experience -->
 ```text
-[2024-04 → now    ]  Customs City Platform · remote contractor (Toronto, CA)
-                     Multi-tenant customs brokerage SaaS → CBP filings (US)
-                     FeathersJS · MongoDB · Redis · IBM MQ · RabbitMQ
-                     > cross-collection aggregation pipelines for reconciliation
-                     > in-browser file manager: CSV/XLSX + Web Workers + validation
-                     > message-flow debugging: sender channels, VPN, queue depth
+[2024-04 → now    ]  Customs City Platform · Remote contractor · company based in Toronto, Canada
+                     Multi-tenant customs brokerage SaaS on Azure/AKS filing with U.S.
+                     > Technical owner of the company's Datadog evaluation (Infrastructure,…
+                     > Designed an append-only, Zod-validated audit log in MongoDB to unify…
+                     > Executed Azure Storage access-key rotation and public-access…
 
-[2023-02 → 2024-02]  Best Reference · Morelia, MX
-                     Internal quoting & project management · Laravel · Vue · MySQL
+[2022-01 → now    ]  AtmosphereCraft · Own brand · multiple clients, Mexico, remote
+                     My own freelance brand.
+                     > Schoolar / IECP — my own multi-tenant school-management SaaS, in…
+                     > GoalTime — GPS/IoT telemetry platform for agricultural operations:…
+                     > LexAI — system architecture and stakeholder documentation for an AI…
 
-[2022    → now    ]  Freelance · Mexico, remote
-                     > multi-tenant school SaaS (iecp.mx) · Next.js + PostgreSQL
-                     > IoT/GPS tracking (GoalTime) · ESP32 + MQTT/EMQX + Docker Swarm
-                     > VPS deployments: Traefik, Dokploy, GitHub Actions
+[2023-02 → 2024-02]  Best Reference · Morelia, Mexico
+                     Internal quotation and project-management system for the sales and…
+                     > REST endpoints with Laravel (Resources, Form Requests, Eloquent,…
+                     > Schema changes, refactors, code reviews and automated tests within a…
 ```
+<!-- profile-data:end:experience -->
 
 <br>
 
 ### `§4 :: $ ls -la ~/repos`
 
+<!-- profile-data:start:repos -->
 ```text
-total 4 — // fetching repos…
-drwxr-xr-x  schoolar-iecp/        multi-tenant school SaaS · Next.js + PG     [LIVE → iecp.mx]
-drwxr-xr-x  goaltime/             IoT GPS tracking · ESP32 + MQTT/EMQX        [WIP]
-drwxr-xr-x  everardotorres.com/   portfolio · Next.js + Payload CMS           [LIVE]
-drwx------  aitl-js/              [ACCESS DENIED] · thesis lab                [CLASSIFIED]
+total 5 — // canonical list · profile-data
+drwxr-xr-x  aitl-js/              TypeScript + MongoDB + BullMQ             [ACTIVE]
+drwx------  scholar-iecp/         NestJS + PostgreSQL + Drizzle ORM         [LIVE → iecp.mx]
+drwx------  be-question/          NestJS + MongoDB + Mongoose               [DESIGN]
+drwx------  live-chat/            Java + Netty + WebSocket                  [DONE]
+drwxr-xr-x  devops-docs/          HTML                                      [ACTIVE]
 ```
+<!-- profile-data:end:repos -->
 
 > [!IMPORTANT]
 > **REMEMBER** — *son carreras, no carreritas.* <sub>(play the long game.)</sub>
@@ -180,7 +189,7 @@ drwx------  aitl-js/              [ACCESS DENIED] · thesis lab                [
 <br><br>
 
 ```text
-░▒▓█ hecho a mano · FIELD MANUAL · BUILD 2026.07 █▓▒░
+░▒▓█ hecho a mano · FIELD MANUAL · BUILD 2026.09 █▓▒░
 © 2026 EVERARDO TORRES — no databases were dropped in the making of this README
 everardo@torres:~$ exit
 ```
